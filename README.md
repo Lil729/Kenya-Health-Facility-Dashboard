@@ -1,6 +1,6 @@
 # Kenya Health Facility Dashboard
 
-📊 A real Monitoring & Evaluation (M&E) dashboard based on health facility data across multiple counties in Kenya. Built in Excel and Power BI — this project simulates real M&E analyst tasks in NGOs and public health roles.
+📊 A real Monitoring & Evaluation (M&E) dashboard based on Kenya health facility data across multiple counties. Built in Excel and Power BI — this project simulates the kind of work done by data or M&E analysts in NGOs and public health.
 
 ---
 
@@ -23,7 +23,7 @@ The dataset contains 300+ health facilities in Kenya with columns like:
 - `Facility Type`
 - `Facility Level`
 
-I created a derived column for **Facility Size** (e.g., Large) using Excel formulas.
+An Excel formula was used to create a **Facility Size** category (e.g., Large).
 
 ---
 
@@ -38,9 +38,9 @@ I created a derived column for **Facility Size** (e.g., Large) using Excel formu
 
 - Nairobi has the **highest number of health facilities**.
 - **54%** of all facilities are categorized as **large**.
-- The majority of facilities are **faith-based** or **government-run**.
-- **Total bed capacity** is highest in Nairobi and Homa Bay.
-- Some counties (e.g., Kirinyaga) have **limited infrastructure**.
+- Most facilities are either **faith-based** or **government-run**.
+- **Bed capacity** is highest in Nairobi and Homa Bay.
+- Some counties (e.g., Kirinyaga) show **limited infrastructure**.
 
 ---
 
@@ -54,8 +54,13 @@ I created a derived column for **Facility Size** (e.g., Large) using Excel formu
 
 ---
 
-### 📌 Use Case
+### 📁 Project Files
 
-This project mimics the kind of analysis an M&E analyst in a health-focused NGO might do to inform decisions, track infrastructure capacity, and identify gaps across counties.
+- [🔗 Excel File (Health Facility Infrastructure Analysis.xlsx)](https://github.com/Lil729/Kenya-Health-Facility-Dashboard/blob/main/Health%20Facility%20Infrastructure%20Analysis.xlsx)
+- [🔗 Power BI File (Health Facility Infrastructure Analysis.pbix)](https://github.com/Lil729/Kenya-Health-Facility-Dashboard/blob/main/Health%20Facility%20Infrastructure%20Analysis.pbix)
 
 ---
+
+### 📌 Use Case
+
+This dashboard mimics real M&E reporting done for public health programs, useful for NGOs and government partners to evaluate infrastructure capacity and regional gaps.
