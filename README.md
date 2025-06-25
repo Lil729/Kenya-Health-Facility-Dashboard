@@ -1,68 +1,61 @@
 # Kenya Health Facility Dashboard
 
-📊 A real-world style Monitoring & Evaluation (M&E) dashboard built using health facility data across multiple counties in Kenya. This simulates an M&E analyst's role in an NGO or government health program.
+📊 A real Monitoring & Evaluation (M&E) dashboard based on health facility data across multiple counties in Kenya. Built in Excel and Power BI — this project simulates real M&E analyst tasks in NGOs and public health roles.
 
 ---
 
 ### 🎯 Project Objective
 
-To analyze and visualize:
-- Number of health facilities by county
+Track and visualize:
+- Number of facilities per county
 - Bed capacity distribution
-- Facility size and type breakdown
-- Regional patterns in large facility concentration
+- Facility type & size breakdown
+- Distribution of large facilities across Kenya
 
 ---
 
 ### 📂 About the Data
 
-The dataset includes 300+ health facilities in Kenya with key details like:
-- Facility Type (e.g., Hospital, Clinic, Faith-based)
-- Bed Capacity
-- County
-- Facility Size (derived column)
-- Facility Level (e.g., Level 4, 5, etc.)
+The dataset contains 300+ health facilities in Kenya with columns like:
+- `Facility Name`
+- `Bed Capacity`
+- `County`
+- `Facility Type`
+- `Facility Level`
 
-The original dataset was cleaned in Excel to add a `Facility Size` column and remove duplicates or empty rows.
+I created a derived column for **Facility Size** (e.g., Large) using Excel formulas.
 
 ---
 
 ### 🛠️ Tools Used
 
-- Microsoft Excel (cleaning, formulas, basic pivot checks)
-- Power BI (visualizations, slicers, insights, layout)
+- Microsoft Excel (data cleaning, categorization)
+- Microsoft Power BI (interactive dashboard, filters, visuals)
 
 ---
 
 ### 🔍 Key Insights
 
-- 🏥 Nairobi has the highest number of health facilities and large facilities
-- 📈 54% of all facilities are categorized as **large**
-- 🕊️ Faith-based and private facilities make up over half the total
-- 🛏️ Total bed capacity is highest in Nairobi, Homa Bay, and Kisii
-- ⚠️ Some counties like Kirinyaga have very few large facilities
+- Nairobi has the **highest number of health facilities**.
+- **54%** of all facilities are categorized as **large**.
+- The majority of facilities are **faith-based** or **government-run**.
+- **Total bed capacity** is highest in Nairobi and Homa Bay.
+- Some counties (e.g., Kirinyaga) have **limited infrastructure**.
 
 ---
 
-### 📁 Deliverables
+### 🖼️ Dashboard Previews
 
-- [📊 Excel Data Workbook (.xlsx)](https://github.com/Lil729/Kenya-Health-Facility-Dashboard/blob/main/Health%20Facility%20Infrastructure%20Analysis.xlsx)
-- [📈 Power BI Dashboard File (.pbix)](https://github.com/Lil729/Kenya-Health-Facility-Dashboard/blob/main/Health%20Facility%20Infrastructure%20Analysis.pbix)
+#### ✅ Power BI Dashboard  
+![Power BI Dashboard](https://github.com/Lil729/Kenya-Health-Facility-Dashboard/blob/main/PowerBi%20Kenya%20Health%20Facility%20Dashboard.png)
 
-
----
-
-### 📸 Preview
-
-- [🖼️ Excel Dashboard Screenshot](https://github.com/Lil729/Kenya-Health-Facility-Dashboard/blob/main/Excel%20Kenya%20Health%20Facility%20Dashboard.png)
-- [🖼️ Power BI Dashboard Screenshot](https://github.com/Lil729/Kenya-Health-Facility-Dashboard/blob/main/PowerBi%20Kenya%20Health%20Facility%20Dashboard.png)
+#### ✅ Excel Dashboard  
+![Excel Dashboard](https://github.com/Lil729/Kenya-Health-Facility-Dashboard/blob/main/Excel%20Kenya%20Health%20Facility%20Dashboard.png)
 
 ---
 
 ### 📌 Use Case
 
-This dashboard is designed for:
-- NGO M&E Analysts
-- Health Program Managers
-- Policy Planners and Donors  
-…looking to track infrastructure readiness, identify gaps, and support data-driven decisions.
+This project mimics the kind of analysis an M&E analyst in a health-focused NGO might do to inform decisions, track infrastructure capacity, and identify gaps across counties.
+
+---
