@@ -1,69 +1,78 @@
 # Kenya Health Facility Dashboard
 
-📊 **Kenya Health Facility Dashboard (Public Health M&E Project)**  
-A data dashboard analyzing health facility distribution and access in Kenya. Built for NGOs, public health orgs, and M&E teams to monitor service equity across counties.
+📊 **Kenya Health Facility Dashboard**  
+This dashboard analyzes the distribution and accessibility of health facilities across Kenya. Built to support data-driven decisions in public health and Monitoring & Evaluation (M&E) contexts.
 
 ---
 
 ### 🎯 Project Objective
 
-To evaluate how health services are distributed across counties and sectors in Kenya. The dashboard answers:
+To evaluate how health services are distributed across counties in Kenya. This helps answer:
 
 - Are health facilities fairly distributed by region?
 - Which counties have service gaps?
-- How many are publicly vs privately owned?
+- What is the public vs. private ownership breakdown?
 
 ---
 
 ### 📂 About the Data
 
-The dataset includes public and private health facilities in Kenya, with columns such as:
+The dataset includes public and private health facilities in Kenya with these key fields:
 
-- `Facility Name`
-- `Facility Type`
-- `Level`
-- `Bed Capacity`
-- `County`
-- `Ownership`
+- Facility Name
+- Facility Type
+- Level
+- Bed Capacity
+- County
+- Ownership
 
-An Excel formula was used to classify facilities into size groups (e.g., Small, Medium, Large).
+Additional classification (e.g., facility size) was done using Excel formulas.
 
 ---
 
 ### 🛠️ Tools Used
 
-- Microsoft Excel (data cleaning, categorization)
-- Microsoft Power BI (interactive dashboard, slicers, KPI visuals)
+- **Microsoft Excel** — for data cleaning, formatting, and classification  
+- **Power BI** — for creating an interactive dashboard with filters and KPIs
 
 ---
 
 ### 🔍 Key Insights
 
-- 🏥 **Facility Density**: Nairobi has the highest number of facilities per square km, indicating urban bias.
-- 🌍 **Unequal Access**: Northern and semi-arid counties are underserved.
-- 🏛️ **Ownership Mix**: 60% of facilities are public; private facilities are concentrated in urban regions.
-- 🛏️ **Infrastructure Disparity**: Bed capacity varies significantly by county and ownership type.
+- 📍 **Nairobi** has the highest facility density — showing strong urban coverage.
+- 🏜️ **Northern counties** like Wajir and Garissa are underserved.
+- 🧪 **Service Gaps**: Some counties lack TB testing and maternal care facilities.
+- 🏛️ **Ownership**: 60% of facilities are public, with private ones mostly in urban centers.
 
 ---
 
 ### 🖼️ Dashboard Previews
 
-#### ✅ Power BI Dashboard  
+#### ✅ Power BI  
 ![Power BI Dashboard](https://github.com/Lil729/Kenya-Health-Facility-Dashboard/blob/main/PowerBi%20Kenya%20Health%20Facility%20Dashboard.png)
 
-#### ✅ Excel Dashboard  
+#### ✅ Excel  
 ![Excel Dashboard](https://github.com/Lil729/Kenya-Health-Facility-Dashboard/blob/main/Excel%20Kenya%20Health%20Facility%20Dashboard.png)
 
 ---
 
 ### 📁 Deliverables
 
-- [🔗 Excel File (Health Facility Infrastructure Analysis.xlsx)](https://github.com/Lil729/Kenya-Health-Facility-Dashboard/blob/main/Health%20Facility%20Infrastructure%20Analysis.xlsx)
-- [🔗 Power BI File (Health Facility Infrastructure Analysis.pbix)](https://github.com/Lil729/Kenya-Health-Facility-Dashboard/blob/main/Health%20Facility%20Infrastructure%20Analysis.pbix)
+- [🔗 Excel File (.xlsx)](https://github.com/Lil729/Kenya-Health-Facility-Dashboard/blob/main/Health%20Facility%20Infrastructure%20Analysis.xlsx)
+- [🔗 Power BI File (.pbix)](https://github.com/Lil729/Kenya-Health-Facility-Dashboard/blob/main/Health%20Facility%20Infrastructure%20Analysis.pbix)
+- Insight summary (this README)
+
+---
+
+### 👥 Intended Audience
+
+- NGO Monitoring & Evaluation Teams  
+- Public Health Program Officers  
+- Data-Driven Donor Reporting Units
 
 ---
 
 ### 📌 Use Case
 
-Designed for Monitoring & Evaluation (M&E) analysts, program officers, and donors in public health. Helps assess health infrastructure capacity and identify underserved counties in Kenya.
+This dashboard can help identify underserved regions, inform resource allocation, and support equitable health service delivery in Kenya.
 
