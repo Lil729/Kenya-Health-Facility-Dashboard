@@ -46,15 +46,16 @@ The original dataset was cleaned in Excel to add a `Facility Size` column and re
 
 ### 📁 Deliverables
 
-- [Excel Data Workbook (.xlsx)](link-here)
-- [Power BI Dashboard File (.pbix)](link-here)
-- [Dashboard Preview (Image)](link-here)
+- [📊 Excel Data Workbook (.xlsx)](https://github.com/Lil729/Kenya-Health-Facility-Dashboard/blob/main/Health%20Facility%20Infrastructure%20Analysis.xlsx)
+- [📈 Power BI Dashboard File (.pbix)](https://github.com/Lil729/Kenya-Health-Facility-Dashboard/blob/main/Health%20Facility%20Infrastructure%20Analysis.pbix)
+
 
 ---
 
 ### 📸 Preview
 
-![Dashboard Preview](link-to-dashboard-image)
+- [🖼️ Excel Dashboard Screenshot](https://github.com/Lil729/Kenya-Health-Facility-Dashboard/blob/main/Excel%20Kenya%20Health%20Facility%20Dashboard.png)
+- [🖼️ Power BI Dashboard Screenshot](https://github.com/Lil729/Kenya-Health-Facility-Dashboard/blob/main/PowerBi%20Kenya%20Health%20Facility%20Dashboard.png)
 
 ---
 
@@ -63,6 +64,5 @@ The original dataset was cleaned in Excel to add a `Facility Size` column and re
 This dashboard is designed for:
 - NGO M&E Analysts
 - Health Program Managers
-- Policy Planners and Donors
-Looking to track infrastructure readiness, identify gaps, and support data-driven decisions.
-
+- Policy Planners and Donors  
+…looking to track infrastructure readiness, identify gaps, and support data-driven decisions.
