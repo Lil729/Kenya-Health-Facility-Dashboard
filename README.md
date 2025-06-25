@@ -1,46 +1,48 @@
 # Kenya Health Facility Dashboard
 
-📊 A real Monitoring & Evaluation (M&E) dashboard based on Kenya health facility data across multiple counties. Built in Excel and Power BI — this project simulates the kind of work done by data or M&E analysts in NGOs and public health.
+📊 **Kenya Health Facility Dashboard (Public Health M&E Project)**  
+A data dashboard analyzing health facility distribution and access in Kenya. Built for NGOs, public health orgs, and M&E teams to monitor service equity across counties.
 
 ---
 
 ### 🎯 Project Objective
 
-Track and visualize:
-- Number of facilities per county
-- Bed capacity distribution
-- Facility type & size breakdown
-- Distribution of large facilities across Kenya
+To evaluate how health services are distributed across counties and sectors in Kenya. The dashboard answers:
+
+- Are health facilities fairly distributed by region?
+- Which counties have service gaps?
+- How many are publicly vs privately owned?
 
 ---
 
 ### 📂 About the Data
 
-The dataset contains 300+ health facilities in Kenya with columns like:
+The dataset includes public and private health facilities in Kenya, with columns such as:
+
 - `Facility Name`
+- `Facility Type`
+- `Level`
 - `Bed Capacity`
 - `County`
-- `Facility Type`
-- `Facility Level`
+- `Ownership`
 
-An Excel formula was used to create a **Facility Size** category (e.g., Large).
+An Excel formula was used to classify facilities into size groups (e.g., Small, Medium, Large).
 
 ---
 
 ### 🛠️ Tools Used
 
 - Microsoft Excel (data cleaning, categorization)
-- Microsoft Power BI (interactive dashboard, filters, visuals)
+- Microsoft Power BI (interactive dashboard, slicers, KPI visuals)
 
 ---
 
 ### 🔍 Key Insights
 
-- Nairobi has the **highest number of health facilities**.
-- **54%** of all facilities are categorized as **large**.
-- Most facilities are either **faith-based** or **government-run**.
-- **Bed capacity** is highest in Nairobi and Homa Bay.
-- Some counties (e.g., Kirinyaga) show **limited infrastructure**.
+- 🏥 **Facility Density**: Nairobi has the highest number of facilities per square km, indicating urban bias.
+- 🌍 **Unequal Access**: Northern and semi-arid counties are underserved.
+- 🏛️ **Ownership Mix**: 60% of facilities are public; private facilities are concentrated in urban regions.
+- 🛏️ **Infrastructure Disparity**: Bed capacity varies significantly by county and ownership type.
 
 ---
 
@@ -54,7 +56,7 @@ An Excel formula was used to create a **Facility Size** category (e.g., Large).
 
 ---
 
-### 📁 Project Files
+### 📁 Deliverables
 
 - [🔗 Excel File (Health Facility Infrastructure Analysis.xlsx)](https://github.com/Lil729/Kenya-Health-Facility-Dashboard/blob/main/Health%20Facility%20Infrastructure%20Analysis.xlsx)
 - [🔗 Power BI File (Health Facility Infrastructure Analysis.pbix)](https://github.com/Lil729/Kenya-Health-Facility-Dashboard/blob/main/Health%20Facility%20Infrastructure%20Analysis.pbix)
@@ -63,4 +65,5 @@ An Excel formula was used to create a **Facility Size** category (e.g., Large).
 
 ### 📌 Use Case
 
-This dashboard mimics real M&E reporting done for public health programs, useful for NGOs and government partners to evaluate infrastructure capacity and regional gaps.
+Designed for Monitoring & Evaluation (M&E) analysts, program officers, and donors in public health. Helps assess health infrastructure capacity and identify underserved counties in Kenya.
+
